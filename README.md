@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="images/ipvc.png" alt="Logo" width="auto" height="200">
+    <img src="./images/ipvc.png" alt="Logo" width="auto" height="200">
   </a>
 
   <h1 align="center">Instituto Politécnico de Viana do Castelo</h1>
